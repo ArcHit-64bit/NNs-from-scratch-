@@ -47,7 +47,7 @@ softmax.py
 softmax_for_a_batch.py
 ```
 
-Nothing fancy — just clean, focused code.
+Nothing fancy. Just clean, focused code.
 
 ---
 
@@ -73,7 +73,7 @@ python neuron.py
 
 If you’re also learning this stuff, you’ll probably relate.
 
-And if you know this already — feel free to point out mistakes, I’m still figuring things out.
+And if you know this already, feel free to point out mistakes, I’m still figuring things out.
 
 ---
 
